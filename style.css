@@ -1,0 +1,47 @@
+body{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li {
+    list-style: none;
+    
+}
+.header {
+    background-color: aquamarine;
+    height: 90px;
+}
+
+.header-logo {
+    font-size: 36px;
+    float: left;
+    padding: 20px 40px;
+}
+
+.header-list li{
+    float: right;
+    padding: 33px 20px;
+}
+
+.main {
+    background-color: lightsalmon;
+    height: 600px;
+}
+
+.footer {
+    background-color: lightgray;
+    height: 140px;
+    padding: 20px 40px;
+}
+
+.footer-logo {
+    font-size: 36px;
+    float: left;
+}
+
+.footer-list {
+    float: right;
+}
+
+.footer-list li {
+    padding-bottom: 20px;
+}
